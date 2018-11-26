@@ -4,7 +4,7 @@ GML major mode for emacs, supports Game Maker Language [GML](https://docs2.yoyog
 Provides syntax highlighting, indentation and auto-complete.
 ![Example](assets/example.png)
 
-#Install
+# Install
 Clone this repo and copy the lisp file into your .emacs.d folder.
 
 	git clone https://github.com/nexhero/gml-mode.git
